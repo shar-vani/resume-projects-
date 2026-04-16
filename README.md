@@ -29,17 +29,17 @@ Analyzed Tesla stock data and built machine learning models to predict whether t
 * Metric: ROC-AUC
 * Accuracy ~50% (indicates difficulty of stock prediction)
 
-## 🔍 Key Insights
+##  Key Insights
 
 * Data is highly volatile and right-skewed
 * Strong long-term growth observed
 * Basic models struggle to capture patterns
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 Python, Pandas, NumPy, Matplotlib, Scikit-learn, XGBoost
 
-## 🚀 Conclusion
+## Conclusion
 
 Stock movement prediction is complex; better performance requires advanced models and additional financial features.
 
