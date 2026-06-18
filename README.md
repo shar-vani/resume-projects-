@@ -1,5 +1,5 @@
 # resume-projects-
-#  Stock Market Movement Prediction
+# 📊Stock Market Movement Prediction
 
 ##  Overview
 
