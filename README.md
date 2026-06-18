@@ -45,7 +45,7 @@ Stock movement prediction is complex; better performance requires advanced model
 
 
 
-# Retail Sales Analytics Dashboard
+#  📊Retail Sales Analytics Dashboard
 
 ## Overview
 An interactive Power BI dashboard built to analyze retail sales performance and customer insights.
