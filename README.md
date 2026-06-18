@@ -44,6 +44,42 @@ Python, Pandas, NumPy, Matplotlib, Scikit-learn, XGBoost
 Stock movement prediction is complex; better performance requires advanced models and additional financial features.
 
 
+
+
+
+
+# Retail Sales Analytics Dashboard
+
+## Overview
+An interactive Power BI dashboard built to analyze retail sales performance and customer insights.
+
+## Features
+- Sales Performance Analysis
+- Customer Insights Dashboard
+- Revenue by Region
+- Top States by Revenue
+- Best Selling Products
+- Category Revenue Breakdown
+- Revenue by Shipping Method
+- Interactive Filters and Slicers
+
+## Tools Used
+- Power BI
+- DAX
+- Data Modeling
+- Data Visualization
+
+## Key Insights
+- Identified top-performing states and regions.
+- Analyzed revenue contribution by product categories.
+- Tracked customer purchasing patterns.
+- Evaluated shipping mode performance.
+
+## Dashboard Pages
+1. Sales Performance Dashboard
+2. Customer Insights Dashboard
+
+
  
 
  
